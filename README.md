@@ -21,5 +21,5 @@ Add our libraries to your project in seconds:
 
 ```gradle
 dependencies {
-    implementation 'com.zeesofttech:your-library-name:1.0.0'
+    implementation 'com.github.zeesofttechlibraries:your-library-name:$version'
 }
