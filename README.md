@@ -3,7 +3,7 @@
 
 **Empowering Android Developers — Simplify, Reuse, and Innovate**
 
-Welcome to **Zee Soft Tech** — a home for custom Android libraries and modules designed to make development faster and cleaner.  
+Welcome to **Zee Soft Tech** a home for custom Android libraries and modules designed to make development faster and cleaner.  
 We build **plug-and-play Android dependencies** so you can focus on what really matters: creating great apps.
 
 ---
