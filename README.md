@@ -1,5 +1,5 @@
 # 🏢 Zee Soft Tech
-<img width="920" height="650" alt="png-transparent-man-using-computer-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-web-design-expert-mobile-app-development" src="https://github.com/user-attachments/assets/72b15e39-864c-43d0-b441-4a2af10d6044" />
+<img width="300" height="200" alt="pngwing com (1)" src="https://github.com/user-attachments/assets/3534653a-6b87-4d7c-81e9-1bea3bc089d0" />
 
 **Empowering Android Developers — Simplify, Reuse, and Innovate**
 
